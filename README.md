@@ -18,6 +18,17 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#jProgram to swap two values.
+#Developed by:NARESH.R 
+#RegisterNumber:23005559
+a= float(input(""))
+b= float(input(""))
+a,b=b,a
+print("Swapped values are:",a,b) 
+```
+## OUTPUT:
+![Alt text](output-1.png))
 
 
 
